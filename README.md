@@ -32,10 +32,12 @@ while True:
 ```
 ## OUPUT:
 ### Client.py
-<img width="840" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/1f2354fb-0a34-4612-9f73-caf15a303e55">
+![image](https://github.com/Yogeshvar005/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/113497367/021a651f-b8ed-45fd-a633-d88edbba5423)
+
 
 ### Server.py
-<img width="840" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/5aae1083-1c71-4cbc-9610-7ca057a7b387">
+![image](https://github.com/Yogeshvar005/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/113497367/578187f7-1eb6-44b2-b059-05fc57945c2d)
+
 
 
 
